@@ -17,7 +17,7 @@ base_dirs = [
     r"/Users/artempavlov/Documents/Smart Brewery/Measurements/Measurements 21.11.2025",
     r"/Users/artempavlov/Documents/Smart Brewery/Measurements/Measurements 28.11.2025"
 ]
-with:
+#with:
 
 base_dirs = [
     r"/your_path/Measurements/Measurements 11.11.2025",
@@ -40,7 +40,7 @@ base_dir_28 = r"/your_path/Measurements/Measurements 28.11.2025"
 And lastly, this part:
 output_dir = r"/Users/artempavlov/Documents/Smart Brewery/Boiling_Measurements_clean"
 
-with:
+#with:
 output_dir = r"/your_path/Boiling_Measurements_clean"
 
 
