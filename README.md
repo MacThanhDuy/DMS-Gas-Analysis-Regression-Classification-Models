@@ -10,7 +10,6 @@ When the ZIP archive with measurements is unpacked, open **`control_model.ipynb`
 
 Replace the following lines:
 
-```python
 base_dirs = [
     r"/Users/artempavlov/Documents/Smart Brewery/Measurements/Measurements 11.11.2025",
     r"/Users/artempavlov/Documents/Smart Brewery/Measurements/Measurements 14.11.2025",
