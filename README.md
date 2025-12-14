@@ -18,7 +18,7 @@ base_dirs = [
     r"/Users/artempavlov/Documents/Smart Brewery/Measurements/Measurements 28.11.2025"
 ]
 
-**with:**
+with:
 
 base_dirs = [
     r"/your_path/Measurements/Measurements 11.11.2025",
