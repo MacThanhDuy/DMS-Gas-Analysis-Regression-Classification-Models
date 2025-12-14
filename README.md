@@ -1,6 +1,7 @@
 # DMS-Gas-Analysis-Regression-Classification-Models
 
-#Control model - run before the wort model
+Control model - run before the wort model
+
 Before Running the wort model, make sure that that control model was lunched before
 When the ZIP-file with the measurements is unpacked, open control_model.ipynb, and change this lines:
 base_dirs = [
